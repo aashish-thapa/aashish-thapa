@@ -1,5 +1,29 @@
 # 💫 About Me:
-👋 Hi there! I'm Aashish Thaoa<br><br>🔭 I’m currently working on:<br><br>    TalkNet, a chat application built with Windows Forms, SQL Server, and SignalR, featuring real-time messaging and a smooth user experience.<br>    Anomaly Detection in Time Series Data project using Recurrent Neural Networks (RNNs) in PyCharm.<br>    Fashion Match app, a unique concept where users are matched based on fashion style instead of looks.<br><br>👯 I’m looking to collaborate on:<br><br>    AI and machine learning projects, especially in video captioning and chatbot development.<br>    Web and mobile apps that have a focus on backend or database-heavy functionality.<br><br>🤝 I’m looking for help with:<br><br>    Optimizing the real-time chat functionality for TalkNet and integrating more robust features.<br>    Guidance on deploying RNN-based models for real-time applications.<br><br>🌱 I’m currently learning:<br><br>    Advanced C++ and RNN architectures to enhance my machine learning and AI capabilities.<br>    New SQL techniques for improved data management and reporting.<br><br>💬 Ask me about:<br><br>    Building applications with React, Node, and C#.<br>    Getting started with YOLO and computer vision on Raspberry Pi.<br>    My journey as an international student and a computer science major.<br><br>⚡ Fun fact:<br><br>    I’m from Nepal, but I’ve never hiked in the Himalayas!<br>    In my spare time, I tutor students in College Algebra, helping make math a little less intimidating.
+👋 Hi, I'm Aashish Thaoa
+
+🔭 Currently working on:
+
+    TalkNet (chat app with SignalR) and stock price prediction with RNNs.
+
+👯 Looking to collaborate on:
+
+    AI/ML projects, especially chatbots and video captioning.
+
+🤝 Need help with:
+
+    Real-time chat optimization and RNN deployment tips.
+
+🌱 Currently learning:
+
+    Advanced C++ and SQL techniques.
+
+💬 Ask me about:
+
+    React, Node, C#, and computer vision with YOLO.
+
+⚡ Fun fact:
+
+    I'm from Nepal but haven’t hiked the Himalayas!
 
 
 ## 🌐 Socials:
