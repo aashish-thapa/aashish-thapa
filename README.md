@@ -3,27 +3,27 @@
 
 🔭 Currently working on:
 
-    TalkNet (chat app with SignalR) and stock price prediction with RNNs.
+TalkNet (chat app with SignalR) and Anamoly Detection in Time Series Data, Sentiment Analysis with a Chatbot with RNNs.
 
 👯 Looking to collaborate on:
 
-    AI/ML projects, especially chatbots and video captioning.
+AI/ML projects, especially chatbots and video captioning.
 
 🤝 Need help with:
 
-    Real-time chat optimization and RNN deployment tips.
+Real-time chat optimization and RNN deployment tips.
 
 🌱 Currently learning:
 
-    Advanced C++ and SQL techniques.
+Advanced C++ and SQL techniques || Machine Learning and AI Capabilities
 
 💬 Ask me about:
 
-    React, Node, C#, and computer vision with YOLO.
+React, Node, C#, and computer vision with YOLO.
 
 ⚡ Fun fact:
 
-    I'm from Nepal but haven’t hiked the Himalayas!
+I'm from Nepal but haven’t hiked the Himalayas!
 
 
 ## 🌐 Socials:
