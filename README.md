@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aashish Thaoa
+👋 Hi, I'm Aashish Thapa
 
 🔭 Currently working on:
 
