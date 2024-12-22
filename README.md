@@ -38,7 +38,6 @@ I'm from Nepal but haven’t hiked the Himalayas!
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=aashish-thapa&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
