@@ -3,7 +3,7 @@
 
 🔭 Currently working on:
 
-FireWatch App and Anamoly Detection in Time Series Data, Sentiment Analysis with a Chatbot with RNNs.
+ZeroWaste App and Anamoly Detection in Time Series Data, Sentiment Analysis with a Chatbot with RNNs.
 
 👯 Looking to collaborate on:
 
@@ -15,7 +15,7 @@ Real-time chat optimization and RNN deployment tips.
 
 🌱 Currently learning:
 
-Advanced C++ and SQL techniques || Machine Learning and AI Capabilities
+Data Structure and Algorithm using C++  || Machine Learning and AI Capabilities
 
 💬 Ask me about:
 
