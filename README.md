@@ -3,7 +3,7 @@
 
 🔭 Currently working on:
 
-ZeroWaste App and Anamoly Detection in Time Series Data, Sentiment Analysis with a Chatbot with RNNs.
+Illumibot, SecondBrain-platform for recording or sharing your thoughts, DeepFake Detection Model
 
 👯 Looking to collaborate on:
 
