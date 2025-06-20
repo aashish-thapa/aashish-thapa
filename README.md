@@ -3,7 +3,7 @@
 
 🔭 Currently working on:
 
-Illumibot, SecondBrain-platform for recording or sharing your thoughts, DeepFake Detection Model
+Illumibot, SayItLoud.vercel.app, DeepFake Detection Model
 
 👯 Looking to collaborate on:
 
