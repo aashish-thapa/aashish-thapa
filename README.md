@@ -3,7 +3,7 @@
 
 🔭 Currently working on:
 
-Illumibot, SayItLoud.vercel.app, DeepFake Detection Model
+Illumibot, DeepFake Detection Model
 
 👯 Looking to collaborate on:
 
