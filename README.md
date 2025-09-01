@@ -15,7 +15,7 @@ Real-time chat optimization and RNN deployment tips.
 
 🌱 Currently learning:
 
-Data Structure and Algorithm using C++  || Machine Learning and AI Capabilities
+Rust || Data Structure and Algorithm using C++  || Machine Learning and AI Capabilities
 
 💬 Ask me about:
 
