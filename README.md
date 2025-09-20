@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aashish Thapa
+👋 Hi, I'm Aashish Thapa. I love quality code over anything.
 
 🔭 Currently working on:
 
