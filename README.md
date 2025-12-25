@@ -79,14 +79,6 @@ Currently working as System Engineer at
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=aashish-thapa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashish-thapa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
----
 ## ☕ Support
  <a href="https://www.buymeacoffee.com/aashishthapa" target="_blank"><img
        src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
